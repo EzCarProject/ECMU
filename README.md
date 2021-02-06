@@ -23,4 +23,6 @@ Plugins is the main focus of ECMU, in fact this interface was made just for plug
 
 ## How to Contribute
 You will need to download a copy of the EzCar source code as we do not host it on this page here. You can get to that page by clicking [here](https://github.com/EzCarProject/EzCar).
-[Wiki](https://github.com/EzCarProject/ECMU/wiki)
+
+## Wiki
+The Wiki is located [here](https://github.com/EzCarProject/ECMU/wiki).
