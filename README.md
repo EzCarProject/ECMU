@@ -1,5 +1,4 @@
 # ECMU
-## Description
 ECMU is an interface made for interfacing with EzCar to make it easier for plugins to work. With ECMU, you can make plugins easier than ever! All you need is the interface DLL file and basic C# coding knowledge to use it.
 
 ## Plugins
